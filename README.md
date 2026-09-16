@@ -6,8 +6,9 @@ Repository này được tạo ra để lưu trữ các bài tập, mã nguồn 
 
 ## 👨‍🎓 Thông tin sinh viên
 
-  Họ và tên: Lê Đăng Mạnh
-  Lớp: 66TTNT1
-  Trường: Trường Đại học Thủy lợi
-  Môn học: Machine Learning 
+* **Họ và tên:** Lê Đăng Mạnh
+* **Lớp:** 66TTNT1
+* **Trường:** Trường Đại học Thủy lợi
+* **Môn học:** Machine Learning
 
+---
